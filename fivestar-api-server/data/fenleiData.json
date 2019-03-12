@@ -1,0 +1,254 @@
+{
+  "pro":[
+    {
+      "name": "电视",
+      "ppNav":["索尼","TCL","小米","飞利浦","海信","长虹","创维","JVC","熊猫","东芝"],
+      "tpNav":["55寸","65寸","曲面电视","超薄电视","HDR电视","OLED电视","4K超清电视","人工智能"],
+      "ppImgs": [
+          {
+            "id": "001",
+            "ptype":"电视",
+            "name": "索尼",
+            "picture": "../../../static/img/ff1.png",
+            "goods":[
+              {
+                "goodsName":"dddddddd",
+                "goodsPrice":"4399",
+                "talk":"暂无评论",
+                "bannerImg":[],
+                "gooodsDesc":"vvvv",
+                "count":"1",
+                "address":"北京",
+                "detail":{
+                  "imgs":[],
+                  "gooosInfo":{
+                    "gooodsAttr":["","","","","",""],
+                    "attrValue":["","","","","",""]
+                  }
+                }
+              },
+              {},
+              {}
+            ]
+          },
+          {
+            "id": "002",
+            "ptype":"电视",
+            "name": "TCL",
+            "picture": "../../../static/img/ff2.png"
+          },
+          {
+            "id": "003",
+            "ptype":"电视",
+            "name": "小米",
+            "picture": "../../../static/img/ff3.jpg"
+          },
+          {
+            "id": "004",
+            "ptype":"电视",
+            "name": "飞利浦",
+            "picture": "../../../static/img/ff4.png"
+          },
+          {
+            "id": "005",
+            "ptype":"电视",
+            "name": "海信",
+            "picture": "../../../static/img/ff5.png"
+          },
+          {
+            "id": "006",
+            "ptype":"电视",
+            "name": "长虹",
+            "picture": "../../../static/img/ff6.png"
+          },
+          {
+            "id": "007",
+            "ptype":"电视",
+            "name": "东芝",
+            "picture": "../../../static/img/ff7.png"
+          },
+          {
+            "id": "008",
+            "ptype":"电视",
+            "name": "创维",
+            "picture": "../../../static/img/ff8.png"
+          },
+          {
+            "id": "009",
+            "ptype":"电视",
+            "name": "JVC",
+            "picture": "../../../static/img/ff9.png"
+          },
+          {
+            "id": "010",
+            "ptype":"电视",
+            "name": "熊猫",
+            "picture": "../../../static/img/ff10.png"
+          }
+       ],
+
+      "typeImgs": [
+        {
+          "id": "001",
+          "ptype":"电视",
+          "name": "55寸",
+          "picture": "../../../static/img/lei1.jpg"
+        },
+        {
+          "id": "002",
+          "ptype":"电视",
+          "name": "65寸",
+          "picture": "../../../static/img/lei2.jpg"
+        },
+        {
+          "id": "003",
+          "ptype":"电视",
+          "name": "曲面电视",
+          "picture": "../../../static/img/lei3.jpg"
+        },
+        {
+          "id": "004",
+          "ptype":"电视",
+          "name": "超薄电视",
+          "picture": "../../../static/img/lei4.jpg"
+        },
+        {
+          "id": "005",
+          "ptype":"电视",
+          "name": "HDR电视",
+          "picture": "../../../static/img/lei5.jpg"
+        },
+        {
+          "id": "006",
+          "ptype":"电视",
+          "name": "OLED电视",
+          "picture": "../../../static/img/lei6.jpg"
+        },
+        {
+          "id": "007",
+          "ptype":"电视",
+          "name": "4K超清电视",
+          "picture": "../../../static/img/lei7.jpg"
+        },
+        {
+          "id": "008",
+          "ptype":"电视",
+          "name": "人工智能",
+          "picture": "../../../static/img/lei8.jpg"
+        }
+
+      ]
+    },
+    {
+      "name": "空调",
+      "ppNav":["美的","奥克斯","海信","TCL","奥特斯","海尔","现代","JVC","熊猫","东芝"],
+      "tpNav":["挂式","柜式","变频空调","1匹空调","2匹空调"],
+      "ppImgs": [
+        {
+          "id": "001",
+          "ptype":"空调",
+          "name": "美的",
+          "picture": "../../../static/img/bx1.png"
+        },
+        {
+          "id": "002",
+          "ptype":"空调",
+          "name": "奥克斯",
+          "picture": "../../../static/img/bx2.png"
+        },
+
+        {
+          "id": "003",
+          "ptype":"空调",
+          "name": "海信",
+          "picture": "../../../static/img/bx3.png"
+        },
+
+        {
+          "id": "004",
+          "ptype":"空调",
+          "name": "TCL",
+          "picture": "../../../static/img/ff2.png"
+        },
+        {
+          "id": "005",
+          "ptype":"空调",
+          "name": "海尔",
+          "picture": "../../../static/img/bx5.png"
+        },
+        {
+          "id": "006",
+          "ptype":"空调",
+          "name": "奥特斯",
+          "picture": "../../../static/img/bx6.png"
+        },
+        {
+          "id": "007",
+          "ptype":"空调",
+          "name": "现代",
+          "picture": "../../../static/img/bx7.png"
+        }
+      ],
+      "typeImgs": [
+        {
+          "id": "001",
+          "ptype":"空调",
+          "name": "挂式",
+          "picture": "../../../static/img/kt1.jpg"
+        },
+        {
+          "id": "002",
+          "ptype":"空调",
+          "name": "柜式",
+          "picture": "../../../static/img/kt2.jpg"
+        },
+        {
+          "id": "003",
+          "ptype":"空调",
+          "name": "变频空调",
+          "picture": "../../../static/img/kt3.jpg"
+        },
+        {
+          "id": "004",
+          "ptype":"空调",
+          "name": "1匹空调",
+          "picture": "../../../static/img/kt4.jpg"
+        },
+        {
+          "id": "005",
+          "ptype":"空调",
+          "name": "2匹空调",
+          "picture": "../../../static/img/kt5.jpg"
+        }
+      ]
+    },
+    {
+      "name":"冰箱"
+    },
+    {
+      "name":"洗衣机"
+    },
+    {
+      "name":"厨卫大电"
+    },
+    {
+      "name":"厨房小电"
+    },
+    {
+      "name":"手机"
+    },
+    {
+      "name":"电脑"
+    },
+    {
+      "name":"生活电器"
+    },
+    {
+      "name":"生活日用"
+    },
+    {
+      "name":"家居家纺"
+    }
+
+  ]
+}
